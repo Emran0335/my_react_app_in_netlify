@@ -5,7 +5,7 @@ import {
   orderByKey,
   query,
   ref,
-  startAt,
+  startAt
 } from "firebase/database";
 import { useEffect, useState } from "react";
 
